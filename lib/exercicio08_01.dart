@@ -26,7 +26,7 @@ class Home extends StatelessWidget {
         tooltip: 'Exemplo de botão',
         child: Icon(Icons.add),
       ),
-      floatingActionButtonLocation: FloatingActionButtonLocation.centerDocked,
+      floatingActionButtonLocation: FloatingActionButtonLocation.endDocked,
     );
   }
 }
